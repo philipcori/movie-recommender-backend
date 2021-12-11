@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "app_function": "app.app",
+    "profile_name": null,
+    "project_name": "movie-recommend",
+    "runtime": "python3.8",
+    "s3_bucket": "movie-recommender-backend-assets"
+  }
+}
